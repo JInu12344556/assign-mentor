@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "669379d819bfa73421591b71"
+  },
+  "name": "Emily Clark",
+  "email": "emily@example.com",
+  "students": [
+    {
+      "$oid": "66937b5319bfa73421591b79"
+    },
+    {
+      "$oid": "66937b5319bfa73421591b79"
+    }
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "66937a8519bfa73421591b75"
+  },
+  "name": "Franklin White",
+  "email": "franklin@example.com",
+  "students": [
+    {
+      "$oid": "66937b8719bfa73421591b7b"
+    }
+  ],
+  "__v": 1
+}]

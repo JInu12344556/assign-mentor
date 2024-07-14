@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "66937b5319bfa73421591b79"
+  },
+  "name": "Grace Green",
+  "email": "grace@example.com",
+  "previousMentors": [
+    {
+      "$oid": "669379d819bfa73421591b71"
+    },
+    {
+      "$oid": "669379d819bfa73421591b71"
+    }
+  ],
+  "__v": 2,
+  "mentor": {
+    "$oid": "669379d819bfa73421591b71"
+  }
+},
+{
+  "_id": {
+    "$oid": "66937b8719bfa73421591b7b"
+  },
+  "name": "Henry Adams",
+  "email": "henry@example.com",
+  "previousMentors": [
+    {
+      "$oid": "66937a8519bfa73421591b75"
+    }
+  ],
+  "__v": 1,
+  "mentor": {
+    "$oid": "66937a8519bfa73421591b75"
+  }
+}]
